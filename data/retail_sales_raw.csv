@@ -1,0 +1,61 @@
+order_id,order_date,customer_id,region,channel,product_category,product_name,quantity,unit_price,discount_pct,sales_amount,payment_method,is_returned
+ORD-0001,2024-12-12,CUST-704,North,Online,Office Supplies,Notebook Bundle,4,79.11,0,316.44,Card,No
+ORD-0002,2024-10-14,CUST-833,North,Online,Laptop,Astra Laptop,4,141.18,0,564.72,Cash,No
+ORD-0003,2024-12-23,CUST-448,South,Retail,Office Supplies,Notebook Bundle,1,196.94,5,187.09,Bank Transfer,No
+ORD-0004,2025-03-09,CUST-718,South,Online,Accessories,USB Hub,2,113.58,10,204.44,UPI,No
+ORD-0005,2024-02-10,CUST-949,North,Wholesale,Accessories,Monitor Arm,2,244.09,15,414.95,UPI,No
+ORD-0006,2025-03-13,CUST-987,South,Wholesale,Laptop,Astra Laptop,4,200.08,0,800.32,Cash,Yes
+ORD-0007,2024-04-17,CUST-818,West,Retail,Accessories,Monitor Arm,6,65.78,10,355.21,UPI,Yes
+ORD-0008,2025-04-18,CUST-801,South,Wholesale,Office Supplies,Desk Chair,3,131.7,10,355.59,Cash,No
+ORD-0009,2025-04-12,CUST-317,North,Online,Laptop,Nexa Book,,88.9,5,591.19,UPI,No
+ORD-0009,2025-04-12,CUST-317,North,Online,Laptop,Nexa Book,,88.9,5,591.19,UPI,No
+ORD-0011,2025-03-16,CUST-256,East,Online,Laptop,Pulse Tablet,8,,0,400.0,Card,Yes
+ORD-0012,2024-09-27,CUST-666,West,Wholesale,Laptop,Nexa Book,7,161.1,15,958.54,UPI,Yes
+ORD-0013,2024-03-21,CUST-103,North,Wholesale,Office Supplies,Notebook Bundle,6,54.54,,278.15,Bank Transfer,No
+ORD-0014,2024-03-19,CUST-880,South,Wholesale,Laptop,Pulse Tablet,5,215.17,5,1022.06,UPI,Yes
+ORD-0015,2025-03-25,CUST-345,North,Wholesale,Accessories,Wireless Mouse,1,54.61,10,49.15,UPI,Yes
+ORD-0016,2024-03-06,CUST-662,South,Wholesale,Laptop,Astra Laptop,8,209.53,5,1592.43,Bank Transfer,Yes
+ORD-0017,2024-12-31,CUST-508,,Wholesale,Office Supplies,Notebook Bundle,4,234.36,5,890.57,UPI,No
+ORD-0018,2024-01-11,CUST-702,West,Wholesale,Accessories,USB Hub,,79.43,10,285.95,Cash,Yes
+ORD-0019,2025-03-16,CUST-438,North,Online,Office Supplies,Printer Ink,1,80.37,0,80.37,,Yes
+ORD-0020,2024-05-04,CUST-926,South,Retail,Office Supplies,Notebook Bundle,4,148.63,15,505.34,Bank Transfer,No
+ORD-0021,2024-08-27,CUST-789,South,Online,Laptop,Pulse Tablet,7,107.95,15,642.3,Card,Yes
+ORD-0022,2024-10-01,CUST-243,North,Retail,Office Supplies,Notebook Bundle,2,,5,160.93,Bank Transfer,No
+ORD-0023,2024-01-26,CUST-195,South,Retail,Accessories,USB Hub,2,127.49,0,254.98,Card,Yes
+ORD-0024,2024-03-25,CUST-102,South,Retail,Accessories,Wireless Mouse,4,220.22,0,880.88,Bank Transfer,No
+ORD-0024,2024-03-25,CUST-102,South,Retail,Accessories,Wireless Mouse,4,220.22,0,880.88,Bank Transfer,No
+ORD-0026,2024-01-30,CUST-971,East,Online,Laptop,Pulse Tablet,8,140.63,,1068.79,Card,Yes
+ORD-0027,2024-10-23,CUST-734,North,Wholesale,Laptop,Pulse Tablet,,118.83,5,451.55,Card,Yes
+ORD-0028,2024-12-08,CUST-344,West,Wholesale,Office Supplies,Printer Ink,6,235.64,5,1343.15,UPI,No
+ORD-0029,2024-01-05,CUST-736,West,Online,Office Supplies,Printer Ink,5,130.59,0,652.95,Bank Transfer,Yes
+ORD-0030,2025-03-27,CUST-350,North,Wholesale,Laptop,Pulse Tablet,5,59.14,10,266.13,Card,No
+ORD-0031,2024-12-07,CUST-779,East,Online,Accessories,Monitor Arm,5,164.57,0,822.85,UPI,Yes
+ORD-0032,2025-01-02,CUST-308,South,Retail,Laptop,Astra Laptop,3,89.92,5,256.27,UPI,No
+ORD-0033,2024-01-02,CUST-889,West,Retail,Laptop,Astra Laptop,7,,0,1487.22,UPI,Yes
+ORD-0034,2024-02-08,CUST-658,,Online,Office Supplies,Notebook Bundle,7,153.4,0,1073.8,Cash,Yes
+ORD-0035,2024-07-05,CUST-466,East,Wholesale,Office Supplies,Desk Chair,7,58.04,10,365.65,Card,Yes
+ORD-0036,2025-04-18,CUST-985,South,Wholesale,Laptop,Nexa Book,,244.24,5,1624.2,Cash,Yes
+ORD-0037,2025-02-14,CUST-373,South,Retail,Laptop,Astra Laptop,6,202.13,15,1030.86,Cash,Yes
+ORD-0038,2024-06-28,CUST-412,North,Retail,Laptop,Nexa Book,4,73.91,15,251.29,,Yes
+ORD-0039,2025-05-10,CUST-459,South,Online,Office Supplies,Desk Chair,7,102.22,,715.54,UPI,No
+ORD-0040,2024-01-20,CUST-710,East,Online,Laptop,Nexa Book,3,157.73,10,425.87,Card,No
+ORD-0041,2024-05-10,CUST-825,East,Wholesale,Accessories,Wireless Mouse,2,114.74,5,218.01,Card,No
+ORD-0041,2024-05-10,CUST-825,East,Wholesale,Accessories,Wireless Mouse,2,114.74,5,218.01,Card,No
+ORD-0043,2024-07-25,CUST-667,North,Wholesale,Accessories,Monitor Arm,5,176.72,10,795.24,UPI,Yes
+ORD-0044,2024-07-26,CUST-411,South,Retail,Office Supplies,Notebook Bundle,3,,10,446.61,Card,No
+ORD-0045,2024-12-11,CUST-623,South,Retail,Office Supplies,Printer Ink,,132.3,15,674.73,Cash,No
+ORD-0046,2024-12-10,CUST-330,South,Wholesale,Laptop,Nexa Book,6,50.55,5,288.13,UPI,Yes
+ORD-0047,2024-08-21,CUST-744,South,Online,Laptop,Astra Laptop,8,164.48,0,1315.84,Bank Transfer,Yes
+ORD-0048,2025-04-02,CUST-897,West,Retail,Accessories,USB Hub,3,174.33,0,522.99,Card,No
+ORD-0049,2025-04-14,CUST-567,South,Online,Office Supplies,Printer Ink,8,41.05,5,311.98,Card,Yes
+ORD-0050,2024-11-09,CUST-950,West,Wholesale,Office Supplies,Printer Ink,6,239.01,15,1218.95,Bank Transfer,No
+ORD-0051,2025-01-27,CUST-741,,Wholesale,Accessories,Wireless Mouse,5,195.39,10,879.25,Bank Transfer,Yes
+ORD-0052,2024-06-12,CUST-241,East,Retail,Laptop,Pulse Tablet,5,81.59,,367.16,Card,Yes
+ORD-0053,2024-06-18,CUST-525,South,Retail,Office Supplies,Desk Chair,4,44.13,15,150.04,Bank Transfer,Yes
+ORD-0054,2024-09-01,CUST-460,South,Retail,Accessories,Monitor Arm,,218.48,15,185.71,Card,No
+ORD-0055,2024-08-11,CUST-129,West,Retail,Office Supplies,Printer Ink,4,,10,494.68,Bank Transfer,No
+ORD-0056,2024-11-14,CUST-503,East,Wholesale,Office Supplies,Notebook Bundle,3,214.91,5,612.49,Card,Yes
+ORD-0057,2024-07-13,CUST-435,North,Wholesale,Accessories,USB Hub,8,69.98,10,503.86,,Yes
+ORD-0058,2024-05-09,CUST-581,West,Retail,Accessories,Wireless Mouse,5,195.44,15,830.62,Card,Yes
+ORD-0059,2025-01-21,CUST-353,North,Retail,Laptop,Pulse Tablet,2,201.87,0,403.74,Card,Yes
+ORD-0060,2024-10-15,CUST-576,North,Wholesale,Laptop,Astra Laptop,3,134.18,0,402.54,Cash,No
