@@ -1,5 +1,4 @@
-# Exploratory chart dependencies
+# Interactive visualization dependencies
 pandas>=2.2.0
 numpy>=1.26.0
-seaborn>=0.13.0
-matplotlib>=3.8.0
+plotly>=5.24.0

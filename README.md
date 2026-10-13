@@ -1,19 +1,18 @@
-# Static Seaborn Exploration
+# Interactive Plotly Exploration
 
-This branch introduces the fourth step in the pipeline: exploratory static charts to see trends and patterns in the cleaned data.
+This optional branch adds the fifth stage: interactive charts with hover details, zoom controls, and better business storytelling.
 
 ## What this branch teaches
-- Creating bar and line charts with seaborn
-- Mapping variables to axes, color, and grouping
-- Saving charts and writing interpretation notes
+- Building interactive visuals with Plotly
+- Adding tooltips and legend-based filtering
+- Exporting HTML dashboards for exploration
 
 ## How to run
 ```bash
 python -m pip install -r requirements.txt
-python scripts/04_seaborn_visuals.py
+python scripts/05_plotly_interactive.py
 ```
 
 ## Expected outputs
-- `outputs/charts/revenue_by_region.png`
-- `outputs/charts/monthly_revenue.png`
-- `outputs/chart_interpretation.md` with short observations
+- `outputs/interactive_revenue_dashboard.html`
+- `outputs/plotly_interpretation.md` with chart notes
