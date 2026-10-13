@@ -1,19 +1,21 @@
-# Data Visualization Learning Path
+# Clean and Validate
 
-This branch introduces the first stage of the analytics pipeline: loading the raw dataset and inspecting its structure.
+This branch teaches the second stage of the analytics workflow: cleaning messy source data, fixing common data quality issues, and validating the result before dashboarding.
 
 ## What this branch teaches
-- Reading a CSV into a pandas DataFrame
-- Checking schema, nulls, and dtypes
-- Running a basic profile of the dataset
+- Handling missing values
+- Parsing dates and numeric fields
+- Normalizing category values
+- Removing duplicate and invalid rows
+- Writing a validated clean dataset
 
 ## How to run
 ```bash
 python -m pip install -r requirements.txt
-python scripts/01_dataframe_profile.py
+python scripts/02_clean_and_validate.py
 ```
 
 ## Expected outputs
-- Console summary of row count, columns, missing values, and dtypes
-- `outputs/profile_summary.txt` with a quick data profile
-- `data/retail_sales_raw.csv` as the working dataset for the next steps
+- `data/retail_sales_clean.csv` with cleaned records
+- `outputs/clean_validation_report.txt` summarizing the cleaning decisions
+- `outputs/cleaning_decisions.md` explaining what was fixed and why
