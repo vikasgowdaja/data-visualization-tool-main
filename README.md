@@ -1,18 +1,19 @@
-# Interactive Plotly Exploration
+# Streamlit Dashboard
 
-This optional branch adds the fifth stage: interactive charts with hover details, zoom controls, and better business storytelling.
+This final branch combines the entire data pipeline into a single, student-friendly dashboard application.
 
 ## What this branch teaches
-- Building interactive visuals with Plotly
-- Adding tooltips and legend-based filtering
-- Exporting HTML dashboards for exploration
+- Putting the earlier workflow together in one app
+- Building filters, KPI cards, and charts in Streamlit
+- Turning a cleaned dataset into a usable business dashboard
 
 ## How to run
 ```bash
 python -m pip install -r requirements.txt
-python scripts/05_plotly_interactive.py
+streamlit run app.py
 ```
 
 ## Expected outputs
-- `outputs/interactive_revenue_dashboard.html`
-- `outputs/plotly_interpretation.md` with chart notes
+- A dashboard with KPI cards, filter controls, charts, and a filtered data table
+- Real-time updates when filters change
+- A single one-command command to launch the full workflow

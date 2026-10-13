@@ -1,4 +1,5 @@
-# Interactive visualization dependencies
+# Streamlit dashboard dependencies
 pandas>=2.2.0
 numpy>=1.26.0
 plotly>=5.24.0
+streamlit>=1.36.0
